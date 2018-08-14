@@ -1,5 +1,5 @@
 # dense-mm-workload
-Scalable Systematic Performance Predictorfor Distributed Matrix Multiplication Kernel for Data Mining Tasks
+Modeling Distributed Matrix Multiplication Performanceon a Scale-Out Environment for Data Mining Jobs
 
 ### Dataset Download and Upload HDFS
 ```bash
